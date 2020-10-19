@@ -1,4 +1,5 @@
 ![Run unit tests](https://github.com/eborsi/ci-course/workflows/Run%20unit%20tests/badge.svg)
+![Run on multiple os](https://github.com/eborsi/ci-course/workflows/Run%20on%20multiple%20os/badge.svg)
 
 # OxRSE Continuous Integration course
 
