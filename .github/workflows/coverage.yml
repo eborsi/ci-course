@@ -29,7 +29,7 @@ jobs:
         coverage run -m unittest
     - name: Run branch coverage
       run: |
-        coverage run --branch unittest
+        coverage run --branch functionality.py
     - name: Run codecov
       if: success()
       env:
